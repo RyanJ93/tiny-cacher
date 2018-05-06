@@ -1,0 +1,7 @@
+Additional features:
+
+* Add support for cache invalidation when using Memcached as cache strategy.
+* Add support for TTL when using "file" as cache strategy.
+* Write a better implementation for "push", "pull", "has" and "remove" of multiple elements.
+* Add support for tagging.
+* Add support for some other databases as cache strategy, currently planned are MySQL, MongoDB and Apache Cassandra.
