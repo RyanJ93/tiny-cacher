@@ -5,3 +5,4 @@ Additional features:
 * Write a better implementation for "push", "pull", "has" and "remove" of multiple elements.
 * Add support for tagging.
 * Add support for some other databases as cache strategy, currently planned are MySQL, MongoDB and Apache Cassandra.
+* Add a method that allows to get and set the TTL of an element.
